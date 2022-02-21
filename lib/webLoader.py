@@ -5,9 +5,9 @@ from bs4 import BeautifulSoup
 class WebLoader():
     def __init__(self, url):
         self.url = url
-        self._getPage(url)
+        self.getPage(url)
 
-    def _getPage(self, url):
+    def getPage(self, url):
         self.page = requests.get(url)
 
     def getHTMLText(self):

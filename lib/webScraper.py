@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import webCrawler as wc
 import dataExtractor as de
 import dbConnector as dc

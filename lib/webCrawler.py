@@ -4,7 +4,6 @@ import re
 
 class WebCrawler:
     def __init__(self):
-        self.links = set()
         self.studiengaengeLinks = set()
         self.inhalteLinks = set()
 
@@ -21,10 +20,3 @@ class WebCrawler:
         for link in bs.find_all('a', href=re.compile('inhalte.html$')):
             if 'href' in link.attrs:
                 self.inhalteLinks.add(link.attrs['href'])
-
-
-if __name__ == '__main__':
-    wc = WebCrawler()
-    for link in wc.getStudiengaengeLinks("studiengaenge.html"):
-        wc.getInhalteLinks(link)
-    print(wc.inhalteLinks)
