@@ -50,6 +50,9 @@ class WebScraper():
 if __name__ == "__main__":
     '''Programmeinstiegspunkt'''
     ws = WebScraper()
-    ws.getAlLModuleLinks()
+    try:
+        ws.getAlLModuleLinks()
+    except:
+        pass
     ws.extractAllModules()
     ws.writeModulesInDB()
