@@ -1,485 +1,485 @@
-Software Engineering
-Gestaltung digitaler Bildungsangebote 
-Gesundheits- und Sozialökonomie
-Psychologische Diagnostik
-Betriebsorganisation & Logistik
-E-Logistik
-Grundlagen der Pädagogik
-Grundlegende Steuerarten
-Praxisprojekt
-Ingenieurmathematik II
-IT-Architekturen
-Beratung & Begleitung
-Kompaktkurs¹Wirtschaftsprüfung & Controlling
-Sozialmedizin
-English for information technologies1 
-Personalcontrolling & Vergütung
-Big Data Architektur & Infrastruktur
-Besteuerung der Gesellschaften II
-Quantitative Methoden Mathematik/Statistik
-Pädagogische Diagnostik & Evaluation
-Repetitorium Wirtschaftsrecht (8 CP)
-Personal & Talentmanagement
-Qualitätsmanagement
-Differentielle Psychologie
-3.SemesterSupply Chain Management & Logistikstrategie
-Digitalisierung von Geschäftsprozessen
-Kompaktkurs¹Logistikwirtschaft
-International Finance & Accounting 
-Electronic-Business (5 CP)
-Wirtschaftsstrafrecht
-Gesellschafts- & Insolvenzrecht
-Pädiatrische Pflege
-Personal- & Organisationspsychologie
-Anwendungsfelder digitaler Lernmedien 
-Projekt: Business Intelligence
-Organisation & Change Management
-Verfassungs- & Verwaltungsrecht
-Internationales Projekt- und Claimmanagement
-Grundlagen des BGM (5 CP)
-Internationales Vertriebsmanagement & Marketing
-Spezielle Krankheitslehre & Therapie
-Orientierungs-Studienprojekt
-Ethik & Recht
- Software Engineering
-Digitalisierung im Gesundheitswesen
-Sicherheitsmanagement
-Marketing & eBusiness
-Digitale klinische Prozesse
-Quantitative Forschungsmethoden
-Unternehmen im nachhaltigen Wachstum
-Verhaltens- & Verhältnisprävention
-Einführung in die Pädagogik über die Lebensspanne
- ERP-Prozesse
-Wertschöpfungsmanagement
-Pflegepädagogik
-IT-Projekt: Aktuelle Themen der Wirtschaftsinformatik
-Personalmanagement in der Pflege
-Projekt Marketingplanung
-Künstliche Intelligenz - Methoden und Anwendungen
+Case Management
+Customer-Relationship-Management
+Wissenschaftliche Methoden – quantitative Datenanalyse
+Banking Innovation
+Konstruktionslehre¹
+International Marketing Management
+Gesundheitskommunikation & Berichterstattung
+1. Finanzmanagement
+Finanzwirtschaftliche quantitative Methoden
+Projekt: Angewandte qualitative Personalforschung
+Arbeits- und Organisationspsychologie
+Gesundheits- & Sozialökonomie
 Grundlagen der Pflegewissenschaft
-Praxis-Projekt: Angewandtes Risiko- & Treasurymanagement
-Pneumatik – Hydraulik¹
-Finite Elemente Methode
-Business Planning
-Handels- & Steuerbilanzen
-Organisationsentwicklung & -beratung
-Ingenieurmathematik I
-Steuerplanung & Steuergestaltung
+Service Engineering & Instandhaltung
+4. International Contracts
+Business Consulting - Methoden
+IT-Management
+Kompetenz- & Selbstmanagement
+Unternehmen im nachhaltigen Wachstum
+English for technical management
+IT-Trends & Innovation (5 CP)
+Personalcontrolling & Vergütung
+Projekt: Werbe- und Kommunikationskampagnen
+Konzepte des skriptsprachenorientierten Programmierens
+Projektmanagement im Gesundheits- & Sozialwesen
+Thesis / Kolloquium
+Business English
+Seminar zur Digitalisierung
+Medizinische Theorie & Terminologie
+2. Marketingmanagement
+Finanzierung/Controlling im Gesundheits- & Sozialwesen
+Basis-Studienprojekt
+Supply Chain Trends & Logistikcontrolling
+User Experience-Ergonomie
+Fertigungstechnik
+Führung & Nachhaltigkeit (6 CP)
+Künstliche Intelligenz
+Interkulturelle Soziale Arbeit
 Konzepte des prozeduralen Programmierens
+Umgang  mit Heterogenität & individuelle Förderung
+Quantitative Methoden Mathematik/Statistik
+Orientierungs-Studienprojekt
+Master-Thesis und Kolloquium (25 CP)
+Finanzen
+Finanzmanagement in der Pflege
+Verteilte Systeme
+Verfahrens- & Prozessrecht
+Spezielle Krankheitslehre & Therapie
+Entrepreneurship in der Pflege
+Einkommensteuerrecht
+Bank-Rechnungswesen & Controlling
+International Economics  (7 CP)
+Organisationsgestaltung & -Entwicklung
+1. Vertragsgestaltung
+Personalpsychologie
+Mikroökonomik & Neue Institutionenökonomik
+Werkstofftechnische Grundlagen¹
+Controlling-Projekt
+Embedded Systems,  IoT, SmartX
+Ethik & Recht
+Zinsrisikomanagement
+Vertriebsplanung & -controlling
+Internationales Wirtschafts- und Vertragsrecht
+Psychologische Diagnostik
+Projektseminar Abschlussarbeit
+Technologiemanagement
+Applied Project 
+Management von Informationstechnologien
+Liquiditätsrisikomanagement
+Projektmanagement in der Pflege
+Sozialpsychologie
+Unternehmen in der Konsolidierung
+Unternehmerisches Planspiel
+Turnaround Management
+Marktforschung & Konsumentenpsychologie
+Europarecht
+English for information technologies1 
+Empirie-Projekt: Strategie & Entrepreneurship
+Verhaltensökonomik
+Operatives Controlling
+Usability/ Webdesign/Webanalytics
+Makroökonomik & Wirtschaftspolitik
+Marketing in der Pflege
+Produktion & Inventory Management
+Handels- & Steuerbilanzen
+Analyse semi- & unstrukturierter Daten
+IT Infrastructure 1
+Besonderes Schuld- & Sachenrecht
+Human Resources
+Gesundheitspsychologie & -soziologie
+Wirtschafts- / Unternehmensethik
+Einführung in die pädagogische Psychologie
+Empirie-Projekt: Empirisches Finance & Accounting
+Beratungs- und Gesprächskompetenz (7 CP)
+Wirtschafts-/Unternehmensethik
+Vorbereitungsseminar zur Bachelor Thesis
+Corporate Financial Management 
+Intercultural Competencies 
+Besteuerung der Gesellschaften I
+Projekt: Distribution & E-Commerce
+Angewandte Forschung
+Anwendungsfelder Business Analytics
+Finanzierung & Controlling im Gesundheitswesen
+Grundlegende Steuerarten
+Strömungslehre
+IT-Trends & Innovation
+Digitale Transformation
+Projekt: Finanzanalyse
+Führungspsychologie (5 CP)
+Ethik im Gesundheits- und Sozialwesen
+Grundlagen der digitalen Transformation
+Hardware - Grundlagen moderner Informationstechnik
+Volkswirtschaftslehre
+(e)CRM
+Führung & Kompetenzen in der Pflege
+Design Thinking & Business Model Innovation
+2. Trendforschung & Innovation
+Behavioral Finance
+Fach-Studienprojekt
+Dienstleistungsmarketing
+Digitalisierung (5 CP)
+Algorithmen und Datenstrukturen
+BGB AT & Schuldrecht AT
+E-Logistik
+Praxis-Transferprojekt
+Lern- und Arbeitstechniken
+Praxisprojekt
+Projekt: Operations Research & Logistikforschung
+Marketing im Gesundheitswesen
+Wissenschaftliche Methoden - Qualitativ
+Projekt: Angewandtes Vertriebsmanagement
+Kreditgeschäft
+Beschaffung & Global Sourcing
+Grundlagen Marketing & Media
+Betriebliches Gesundheitsmanagement
+Projektmanagement
+Versorgungsforschung & Gesundheitssysteme
+Wissenschaftliche Methoden in der Marketing- & Vertriebsforschung
+Pädiatrische Pflege
+Technische Mechanik: Dynamik¹
+Praxisprojekt II
+Entrepreneurship & Innovationsmanagement im Gesundheitswesen
+Eingliederungsmanagement & Arbeitsschutzmanagement
+ ERP-Prozesse
+2. Rechtsstreitigkeiten
+Projektmanagement von Big Data Projekten
+Big Data Architektur & Infrastruktur
+Big Data Analyseprojekt
+Verhaltens- & Verhältnisprävention
+Elektrotechnik¹
+Thesis/Colloquium 
+Werkstofftechnische Anwendungen¹
+Informationssicherheit & Datenschutz
+Preparatory seminar for the Bachelor thesis 
+Wissens- & Informationsmanagement
+Kompaktkurs¹Sozialpsychologie
+Wissenschaftliche Methodik
+Gesundheitsökonomie
+Marketing Controlling
+Derivatives & Structured Finance
+Quantitative Methoden & Evaluationsforschung
+Kommunikation, Moderation & Training
+Kompaktkurs¹Logistikwirtschaft
+Wirtschaftspsychologische Forschungsprojekte
+Betriebswirtschaftslehre
+Business English¹ 
+Organisationsentwicklung & -beratung
+Fertigungstechnik (5 CP)
+Praxis der Datenanalyse
+Repetitorium Steuerrecht
+Besteuerung von Übertragungsvorgängen
+Personalmanagement in der Pflege
+Einführung Wissenschaftliches Arbeiten
+Projekt- & Innovationsmanagement (6 CP)
+Pädagogische Psychologie
+Big Data & Data Science 
+Online-Marketing
+ Projektmanagement
+Kommunikationsinstrumente
+Controlling & Finanzierung
+Grundlagen der professionellen Pflege
+Prävention & Gesundheitsberichterstattung
+Informationsmanagement & Datenschutz
+Digitalisierung in Industrie & Dienstleitung (6 CP)
+Case Management im Gesundheits- & Sozialwesen
+Financial Marketing
+Beratung & Begleitung
+E-Business
+Supply Chain Management
+Wissenschaftliche Methodik (5 CP)
+Inklusion & Behinderung
+Internationales Projekt- und Claimmanagement
+IT-Infrastruktur
+Aufbau des Gesundheits- und Sozialsystems
+Gesundheits- & Sozialmarketing
+Internes & Externes Rechnungswesen
+Werbe- und Medienpsychologie
+eBusiness & Betriebliche Anwendungssysteme
+Seminar zur Bachelor-Thesis
+Organisation & Change Management
+Projekt
+Künstliche Intelligenz - Methoden und Anwendungen
+Digitale klinische Prozesse
+7.Semester Seminar zur Bachelor-Thesis
+Quantitative Methoden der Informatik
+Wund- und Schmerzmanagement
+Waren-, Wetter- & Energiepreisrisiko-Management
+ Seminar zur Bachelor-Thesis
+ODERVertiefungsrichtung MedizinpädagogikPrimärprävention I
+Aufbau des Gesundheits- & Sozialsystems
+ Transferlernen - Unterschiedliche Lernorte & -zeiten
+Steuerplanung & Steuergestaltung
+Business English 
+Projekt: Empirisches Forschungsprojekt
+Geschäftsprozessmanagement
+Strategisches Management
+Vertiefungsrichtung Internationale Aspekte der Sozialen Arbeit
+Gesundheitspsychologie
+Technik & Nachhaltigkeit
+Pflege- und Medienpädagogik
+Internationaler Transport & Transportrecht
+Marketing- und Kommunikationsplanung
+Führungs- & Motivationstheorien
+Industrielle Informationstechnik¹
+3. Grundlagen Psychologie
+Psychologie der Entscheidung
+Digitale Regelungstechnik
+Formale Beschreibungsverfahren
+Operations Research
+Social Media & Mobile Marketing
+Wirtschaftsinformatik Basics
+(Digitalisierte) Lehr-Lern-Methoden & -Arrangements
+Consultingprojekt: Digital Business Design
+ Software Engineering
+Qualitätsmanagement
+Beschaffung, Fertigung & Marketing
+Steuerrecht
+Strategisches Management (7 CP)
+Wirtschaftspsychologie
+Gesellschafts- & Insolvenzrecht
+Datenerhebung & Statistik
+Methoden der Sozialen Arbeit
+Big Data & Data Science
+Personalmanagement im Gesundheitswesen
+Recht im Gesundheits- und Sozialwesen
+Management Basics
+Rechtsmethoden
+Gesundheits- und Sozialökonomie
+Bildungsforschung – Qualitative & quantitative Forschungsmethoden
+Gesundheitssoziologie
+Gestaltung digitaler Bildungsangebote 
+Embedded Systemes,  IoT, SmartX
+Vertiefungsrichtung GesundheitspsychologieMedizinische Rehabilitationspsychologie II
+Wirtschaftspsychologische Forschung
+Management von Währungsrisiken
+Strategisches Vertriebsmanagement
+Gesundheitsförderung & Prävention
+Maschinenelemente & -systeme¹
+Grundlagen Pflegemanagement
+ Datenbankmanagement
+Digitalisierung
+Informationstechnologien & E-Health
+Asset Management
+Professionalität & Teamentwicklung
+Exposé zur Bachelor-Thesis
+Kompaktkurs¹Grundlagen Digital Business
+Pflegepädagogik
+IT-Architekturen
+Internationale Rechnungslegung & Konzernabschluss
+Allgemeine Psychologie & Biopsychologie
+Empirie-Projekt: Kreditrisikomanagement
+Digitale Pflege & Informationstechnologien
 Marketing & Kommunikation
 Grundlagen der Psychologie
-Betriebliche Gesundheitspolitik
- ERP-Systeme
-Digitale Pflege & Informationstechnologien
-Internationaler Transport & Transportrecht
-IT-Trends & Innovation
-Ethik im Gesundheits- & Sozialwesen
-Geschäftsprozessmodellierung
-Digitale Transformation
-Grundlagen Public Health
-Projekt: Angewandte qualitative Personalforschung
-Grundlagen Marketing & Media
-Elektrische Maschinen¹
-Algorithmen und Datenstrukturen
-Physikalisch-technische Grundlagen I¹
-Praxisprojekt III
-Verhaltensökonomik
-Einführung Wissenschaftliches Arbeiten
-Consultingprojekt: Digital Business Design
-Usability/ Webdesign/Webanalytics
-Robotik
-Mechatronik
-Recht der Arbeitsverhältnisse
-Empirie-Projekt: Kreditrisikomanagement
-Quantitative Methoden der Informatik
-Embedded Systemes,  IoT, SmartX
-Liquiditätsrisikomanagement
-Crossmedia-Management
-Sozialpsychologie
-Maschinenelemente¹
-Embedded Systems,  IoT, SmartX
-Beratungs- und Gesprächskompetenz
-Recht im Gesundheits- & Sozialwesen
-2. Trendforschung & Innovation
-Geschäftsprozessmanagement
-Digitalisierung in Industrie & Dienstleitung (6 CP)
-Personal-Marketing & Recruiting
-Digital Change Management
-Controlling & Finanzierung
-Strategisches Management (7 CP)
-Projektmanagement im Gesundheits- & Sozialwesen
-Empirie-Projekt: Empirisches Finance & Accounting
-Vertiefung Umsatzsteuer
-Big Data & Data Science
-Projekt: Finanzanalyse
-Wirtschafts- / Unternehmensethik
-Bilanzanalyse
-Wissens- & Informationsmanagement
-Recht im Gesundheits- und Sozialwesen
-3. Unternehmensorganisation/ Personalführung
-Vertiefungsrichtung Sozialmanagement
-Fach-Studienprojekt
-Patent- & Rechtswesen
-Strömungslehre
-Datenbankmanagement
-Steuerstrafrecht & Internationales Steuerrecht
-Verfahrens- & Prozessrecht
-IT Infrastructure 1
-Einführung Mathematik
-Corporate Finance
-Führung & Kompetenzen in der Pflege
-Allgemeine & Biopsychologie
-Entrepreneurship & Innovationsmanagement im Gesundheitswesen
-Marketing in der Pflege
-Social Media & Mobile Marketing
-Unternehmen in der Gründung
-Führung & Nachhaltigkeit
-Medizinische Grundlagen & Epidemiologie
-Recht im Gesundheitswesen
-Wissenschaftliche Methoden – Qualitativ
-Product-Lifecycle-Management
-Mediation – Methoden der Konfliktklärung
- Datenbankmanagement
-Maschinensysteme
-Beschaffung, Fertigung & Marketing
-Produktion & Inventory Management
-Marketing Controlling
-Gesundheitsökonomie
-Business Commercial English¹ 
-User Experience-Ergonomie
-ERP-Systeme
-Einführung in die pädagogische Psychologie
-Volkswirtschaftslehre
-Management Basics im Gesundheits- & Sozialwesen
-1. Führungspsychologie
-Management Basics
-Arbeits- und Organisationspsychologie
-Software Engineering & Projektmanagement
-4. Trendforschung & Innovation
-Kompaktkurs¹Grundlagen Medizinmanagement
-Praxis-Transferprojekt
-1. Marketingmanagement
-Internes & Externes Rechnungswesen
-Finanzierung/Controlling im Gesundheits- & Sozialwesen
-Europarecht
-E-Business
-Umgang  mit Heterogenität & individuelle Förderung
-Case Management im Gesundheits- & Sozialwesen
-Wahlmodul
-Entscheidungsorientiertes Management
-Verteilte Systeme
-Projekt: Empirisches Forschungsprojekt
-Kompaktkurs¹Digitalisierung im Marketing
-IT Trends & Innovation 
-Hardware - Grundlagen moderner Informationstechnik
-Industrielle Informationstechnik¹
-Grundlagen der Statistik
-Qualitätsmanagement in der Pflege
 Englisch
-Maschinenelemente & -systeme¹
-Empirisches Projekt
-Service Engineering & Instandhaltung
-HR-Trends & Entwicklung
-Banking Innovation
-Klinische Prozesse
-3. Grundlagen Psychologie
-Angewandte Forschung
-Operations Research
-Grundlagen der digitalen Transformation
-Qualitative Forschung
-Betriebliches Gesundheitsmanagement in der Pflege
-Konzepte des objektorientierten Programmierens
-Inklusion & Behinderung
-Management von Währungsrisiken
-Qualitätsmanagement im Gesundheits- & Sozialwesen
-Thesis/Colloquium 
-Master-Thesis und Kolloquium
-Kompaktkurs¹Grundlagen Digital Business
-Kompaktkurs¹Strategisches Personalmanagement
-Vertiefungsrichtung GesundheitspsychologieMedizinische Rehabilitationspsychologie I
 Praxisprojekt I
-Kompetenz- und Selbstmanagement
-2. Change Management
-Kreditgeschäft
-(Digitalisierte) Lehr-Lern-Methoden & -Arrangements
-Design Thinking & Business Model Innovation
- Projektmanagement
-Projektmanagement in der Pflege
-Online-Marketing
-7.Semester Seminar zur Bachelor-Thesis
-Fertigungstechnik (5 CP)
-Preparatory seminar for the Bachelor thesis 
- IT- & Medienrecht
-Usability/ Webdesign/ Webanalytics
-Projektseminar Abschlussarbeit
-Projektmanagement & IT-Grundlagen
-Business Ethics 
-Betriebswirtschaftslehre
-Vertiefungsrichtung GesundheitspsychologieMedizinische Rehabilitationspsychologie II
-Personal- & Organisationsentwicklung
-Strategische Geschäftsmodellentwicklung
-Projektmanagement von Big Data Projekten
-IT-Recht & Compliance
-Wirtschaftsinformatik Basics
-Kompaktkurs¹Innovationsmanagement
-Technische Mechanik: Dynamik¹
-Verhandlungsführung
-Digitalisierung
-Big Data Analytics
-ODERVertiefungsrichtung MedizinpädagogikPrimärprävention I
-IT-Management
-Repetitorium Steuerrecht
-Turnaround Management
-Markt- & Werbepsychologie
-Anwendungsprojekt
-Bank-Rechnungswesen & Controlling
-Technik & Nachhaltigkeit
-Formale Beschreibungsverfahren
-Steuerrecht
-IT-Management 
-International Economic Policy 
-BGB AT & Schuldrecht AT
-2. Marketingmanagement
-Finanzierung & Investition
-Personalpsychologie
-Analyse semi- & unstrukturierter Daten
-Grundlagen der professionellen Pflege
-Wissenschaftliche Methoden – quantitative Datenanalyse
-Bildungsforschung – Qualitative & quantitative Forschungsmethoden
-Psychologische Gesprächskompetenz
-IT-Trends & Innovation (5 CP)
-Praxiswerkstatt
-Academic Writing & Research 
-Psychologische Gesprächsführung
-Wissenschaftliche Methodik
-Analytische Grundlagen technischer Spezialgebiete (5 CP)
-Ethik im Gesundheits- und Sozialwesen
-Unternehmensplanspiel
-Projektmanagement
-Internationale Rechnungslegung & Konzernabschluss
-Beschaffung & Global Sourcing
-Praxis der Datenanalyse
-1. Finanzmanagement
-Strategisches Management
-Trendforschung & Innovation
-Finanzmanagement in der Pflege
-Finanzmarktaufsicht & -regulierung (5 CP)
-Web Technologie
-Gesundheitsförderung & Prävention
-Quantitative Methoden & Evaluationsforschung
-Vertiefungsrichtung Internationale Aspekte der Sozialen Arbeit
-Vorbereitungsseminar zur Bachelor Thesis
-Makroökonomik & Wirtschaftspolitik
-Controlling-Projekt
-Produktionsplanung
-Supply Chain Trends & Logistikcontrolling
-Fallstudie/Wissenschaftliches Arbeiten
-Qualitative Forschungsmethoden
-Globalisierung & internationale Wirtschaftsbeziehungen
-Werbe- und Medienpsychologie
-Gesundheitspsychologie & -soziologie
-Geistiges Eigentum & Wettbewerbsrecht
-Arbeits- & organisationspsychologische Beratung
-Insolvenzrecht
-Anwendungsfelder Business Analytics
-Medizinische Grundlagen
-Vertriebsplanung & -controlling
-Gesundheitspsychologie
-Projekt: Distribution & E-Commerce
-Finanzierung & Controlling im Gesundheitswesen
-Künstliche Intelligenz
-Finanzen
-Kommunikation, Moderation & Training
-Thesis/Kolloquium
-Projekt
-Unternehmen in der Konsolidierung
-Kompaktkurs¹Asset Management & Behavioral Finance
-Content-Management-Systeme
-eBusiness & Betriebliche Anwendungssysteme
-Personalmanagement im Gesundheitswesen
-Informationssicherheit & Datenschutz
-Datenerhebung & Statistik
-Asset Management
-Interkulturelle Soziale Arbeit
-Suchthilfe
-Zinsrisikomanagement
-Master-Thesis und Kolloquium (25 CP)
-Behavioral Finance
-Medienbildung & digitales Lernen
-Digital Business Management
-Führungs- & Motivationstheorien
-Internationales Wirtschafts- und Vertragsrecht
-Seminar zur Digitalisierung
-Entrepreneurship in der Pflege
-Interdisziplinäres Studienprojekt
-Projekt: Werbe- und Kommunikationskampagnen
-Marketing- und Kommunikationsplanung
-Praxis-Projekt: Informations- & Wissensmanagement
-Arbeitsmethoden & Softwareanwendungen
-Sensorik & Aktorik¹
-Werkstofftechnische Grundlagen¹
-Lernbegleitung & Lerncoaching
-Mathematische Grundlagen der Informatik
-Betriebssysteme
-Marktforschung
-Physik¹
-Gesundheitssoziologie
-Organisationsgestaltung & -entwicklung
-Derivatives & Structured Finance
-Kinder- & Jugendhilfe
-Intercultural Competencies 
-Besonderes Schuld- & Sachenrecht
-Rechtsmethoden
-Aufbau des Gesundheits- & Sozialsystems
-Angebotspolitik
-Unternehmerisches Planspiel
-Wirtschafts-/Unternehmensethik
-Praxisprojekt II
-Führung & Nachhaltigkeit (6 CP)
-Projektseminar: IT-Projektmanagement & Software Engineering
-Bilanzpolitik & –analyse
-Qualitätsmanagement im Gesundheitswesen
-Technische Systeme & Digitalisierung
-Projekt: Operations Research & Logistikforschung
-Mikroökonomik & Neue Institutionenökonomik
-Betriebswirtschaft & Unternehmensorganisation
-Gesundheitskommunikation & Berichterstattung
-4. International Contracts
-Physikalisch-technische Grundlagen II¹
-Prävention & Gesundheitsberichterstattung
-English for technical management
-Strategie & digitale Transformation
-Finanzwirtschaftliche quantitative Methoden
-IT- und Medienrecht
- Seminar zur Bachelor-Thesis
-Digitale Pflege Informationstechnologien
-Wirtschaftspsychologische Forschung
-IT-Infrastruktur
-Waren-, Wetter- & Energiepreisrisiko-Management
-Procurement, Production & Marketing 
-Wund- und Schmerzmanagement
-Corporate Financial Management 
-Big Data Analyseprojekt
-Geriatrische Pflege
-Strategisches Vertriebsmanagement
-IT- & Medienrecht
-Marktforschung & Konsumentenpsychologie
-Angewandte Programmierung
-Professionalität & Teamentwicklung
-2. Rechtsstreitigkeiten
-Handels- & Unternehmensrecht
-Digitalisierung (5 CP)
-Basis-Studienprojekt
-Gesundheits- & Medizinpädagogik
-Gesundheitspolitik
-Führungspsychologie (5 CP)
-Medizinische Theorie & Terminologie
-Allgemeine Psychologie & Biopsychologie
-Projekt- & Innovationsmanagement (6 CP)
-Aufbau des Gesundheits- und Sozialsystems
-Besteuerung von Übertragungsvorgängen
-Marketing Intelligence
-Recht in der Sozialen Arbeit
-Case Management
-Bachelor-Thesis/Kolloquium (15 CP)
-International Health Care Management
-Einkommensteuerrecht
-Einführung in die Didaktik
-Human Resources
-Informationstechnologien & E-Health
+Konzepte des objektorientierten Programmierens
+Beratungs- und Gesprächskompetenz
 Interdisziplinäre Aspekte der Wirtschaftsinformatik
-Digitale Regelungstechnik
-Wissenschaftliche Methodik (5 CP)
-Lern- und Arbeitstechniken
-Wissenschaftliches Arbeiten
-Management von Qualität
-Business English¹ 
-Exposé zur Bachelor-Thesis
-Fertigungstechnik
-Wirtschafts- & Privatrecht
-Technisches Projektmanagement
-Projekt: Angewandtes Vertriebsmanagement
-Controlling & Unternehmensführung
-Business English
-Kommunikationsinstrumente
-Technologiemanagement
-Bachelor-Thesis/Kolloquium
-Supply Chain Management
-Customer-Relationship-Management
-Kompaktkurs¹Sozialpsychologie
-Marketing im Gesundheitswesen
-Big Data & Data Science 
-Leistungsmanagement im Gesundheits- & Sozialwesen
-Empirie-Projekt: Strategie & Entrepreneurship
-Bilanzen & Steuern
-Big Data Consultingprojekt
-Strategic Management 
-Professional Business English 
-Personalentwicklung
-Kostenrechnung & Buchführung
-Pädagogische Psychologie
-Fachstudienprojekt (5 CP)
-1. Finanzmanagement (8 CP)
-Versorgungsforschung & Gesundheitssysteme
-Wirtschaftspsychologische Forschungsprojekte
-Dienstleistungsmarketing
-Operatives Controlling
-Business English 
-Betriebliches Gesundheitsmanagement
-Informationsmanagement & Datenschutz
-Operatives Vertriebsmanagement
-Konstruktionstechnik
-Beratungs- und Gesprächskompetenz (7 CP)
-Wissenschaftliche Methoden - Qualitativ
-Psychologische Handlungskompetenz
-Methoden der Sozialen Arbeit
-Konzepte des skriptsprachenorientierten Programmierens
-Produktionssysteme & Digitale Fabrik
-Applied Project 
-Eingliederungsmanagement & Arbeitsschutzmanagement
-Ökonometrie
- Digitalisierung im Gesundheitswesen
+Grundlagen des BGM (5 CP)
+Finanzmarktaufsicht & -regulierung (5 CP)
+Wertschöpfungsmanagement
 Arbeits- & Organisationspsychologie
-Thermodynamik
-Computer Aided Design
-Projekt: Angewandte quantitative Personalforschung
-Management von Informationstechnologien
-Klassische Werbung
-Gesundheits- & Sozialmarketing
-Business Communication Skills 
- Transferlernen - Unterschiedliche Lernorte & -zeiten
-Business Consulting - Methoden
-Rechnungswesen & Finanzierung (7 CP)
-Psychologie der Entscheidung
+Big Data Analytics
+Empirisches Projekt
+Unternehmen in der Gründung
+Gesundheitspolitik
+3.SemesterSupply Chain Management & Logistikstrategie
+Software Engineering & Projektmanagement
+Bachelor-Thesis/Kolloquium
+Betriebliches Gesundheitsmanagement in der Pflege
+Markt- & Werbepsychologie
+Arbeitsmethoden & Softwareanwendungen
+IT-Management 
+IT- und Medienrecht
+HR-Trends & Entwicklung
 Kompaktkurs¹Verhandlungsführung im Vertrieb
-Finanzierung Basics
-Werkstofftechnische Anwendungen¹
-Recht & Compliance (6 CP)
-1. Vertragsgestaltung
-Thesis / Kolloquium
-Wahlpflichtmodul HandlungskompetenzVerhandlungsführung (5 CP)
-Pflege- und Medienpädagogik
-Wissenschaftliche Methoden in der Marketing- & Vertriebsforschung
-Wirtschaftspsychologie
-Kompetenz- & Selbstmanagement
-Gesundheits- & Sozialökonomie
-Seminar zur Bachelor-Thesis
-ODERVertiefungsrichtung MedizinpädagogikPrimärprävention II
-(e)CRM
-Technische Mechanik: Statik
-Praxisprojekt Informations- & Datenbankmanagement
-Financial Marketing
-Organisationsgestaltung & -Entwicklung
-Digitale Mess-, Steuerungs- & Regelungstechnik¹
+Thermodynamik
+Wirtschaftsstrafrecht
+Lernbegleitung & Lerncoaching
+Qualitätsmanagement im Gesundheits- & Sozialwesen
+Business Ethics 
+Kompetenz- und Selbstmanagement
+Betriebswirtschaft & Unternehmensorganisation
+Bilanzen & Steuern
+Digital Business Management
+Usability/ Webdesign/ Webanalytics
+Betriebssysteme
+Technisches Projektmanagement
+Finanzierung & Investition
+Medizinische Grundlagen
+Finite Elemente Methode
+1. Marketingmanagement
+Wirtschafts- & Privatrecht
 Arbeiten als Coach
-International Marketing Management
+1. Finanzmanagement (8 CP)
+Betriebsorganisation & Logistik
+Kompaktkurs¹Innovationsmanagement
+Angebotspolitik
+Geriatrische Pflege
+Datenbankmanagement
+Geistiges Eigentum & Wettbewerbsrecht
+Strategic Management 
+Interdisziplinäres Studienprojekt
+Praxis-Projekt: Informations- & Wissensmanagement
+Sicherheitsmanagement
+Vertiefung Umsatzsteuer
+Mechatronik
+Electronic-Business (5 CP)
+Grundlagen Public Health
 Electronic Business
-Elektrotechnik¹
-Wirtschafts-/ Unternehmensethik
-Besteuerung der Gesellschaften I
-Konstruktionslehre¹
+Sozialmedizin
+Patent- & Rechtswesen
+Klinische Prozesse
+Thesis/Kolloquium
+Mediation – Methoden der Konfliktklärung
+Einführung Mathematik
+Fachstudienprojekt (5 CP)
+Elektrische Maschinen¹
+Ingenieurmathematik II
+Suchthilfe
 Projektmanagement & Controlling im BGM
-International Economics  (7 CP)
-Grundlagen Pflegemanagement
+Wahlmodul
+Bachelor-Thesis/Kolloquium (15 CP)
+Recht in der Sozialen Arbeit
+Geschäftsprozessmodellierung
+Trendforschung & Innovation
+Corporate Finance
+Ökonometrie
+Kompaktkurs¹Strategisches Personalmanagement
+Wahlpflichtmodul HandlungskompetenzVerhandlungsführung (5 CP)
+Praxisprojekt III
+Anwendungsfelder digitaler Lernmedien 
+IT- & Medienrecht
+Crossmedia-Management
+Quantitative Forschungsmethoden
+Internationales Vertriebsmanagement & Marketing
+Personal- & Organisationsentwicklung
+ IT- & Medienrecht
+Kinder- & Jugendhilfe
+Angewandte Programmierung
+Mathematische Grundlagen der Informatik
+Medienbildung & digitales Lernen
+Psychologische Handlungskompetenz
+Leistungsmanagement im Gesundheits- & Sozialwesen
+Recht & Compliance (6 CP)
+Finanzierung Basics
+IT-Recht & Compliance
+Recht der Arbeitsverhältnisse
+Academic Writing & Research 
+Marketing & eBusiness
+Repetitorium Wirtschaftsrecht (8 CP)
+ODERVertiefungsrichtung MedizinpädagogikPrimärprävention II
+3. Unternehmensorganisation/ Personalführung
+Digitalisierung im Gesundheitswesen
+Digitale Mess-, Steuerungs- & Regelungstechnik¹
+Psychologische Gesprächskompetenz
+IT-Projekt: Aktuelle Themen der Wirtschaftsinformatik
+Differentielle Psychologie
+Steuerstrafrecht & Internationales Steuerrecht
+Business Commercial English¹ 
+Bilanzanalyse
+Kompaktkurs¹Asset Management & Behavioral Finance
+Projektseminar: IT-Projektmanagement & Software Engineering
+Physik¹
+Kostenrechnung & Buchführung
+4. Trendforschung & Innovation
+Personal & Talentmanagement
+Business Planning
+Technische Systeme & Digitalisierung
+Anwendungsprojekt
+Pneumatik – Hydraulik¹
+Qualitative Forschung
 Terminologie der digitalen Pflege
+International Economic Policy 
+Psychologische Gesprächsführung
+Grundlagen der Statistik
+Kompaktkurs¹Digitalisierung im Marketing
+Sensorik & Aktorik¹
+Management Basics im Gesundheits- & Sozialwesen
+Robotik
+Projekt Marketingplanung
+Maschinenelemente¹
+Qualitätsmanagement im Gesundheitswesen
+Strategie & digitale Transformation
+Wirtschafts-/ Unternehmensethik
+Globalisierung & internationale Wirtschaftsbeziehungen
+Big Data Consultingprojekt
+Software Engineering
+Projekt: Business Intelligence
+Product-Lifecycle-Management
+Digitale Pflege Informationstechnologien
+Klassische Werbung
+Marketing Intelligence
+Produktionsplanung
+Content-Management-Systeme
+Ingenieurmathematik I
+Physikalisch-technische Grundlagen II¹
+Bilanzpolitik & –analyse
+Operatives Vertriebsmanagement
+Kompaktkurs¹Wirtschaftsprüfung & Controlling
+Führung & Nachhaltigkeit
+Verfassungs- & Verwaltungsrecht
+Personalentwicklung
+ ERP-Systeme
+Unternehmensplanspiel
+Wissenschaftliches Arbeiten
+Verhandlungsführung
+International Finance & Accounting 
+Recht im Gesundheitswesen
+Kompaktkurs¹Grundlagen Medizinmanagement
+Computer Aided Design
+Einführung in die Didaktik
+Praxisprojekt Informations- & Datenbankmanagement
+Produktionssysteme & Digitale Fabrik
+Personal-Marketing & Recruiting
+Betriebliche Gesundheitspolitik
+ERP-Systeme
+Handels- & Unternehmensrecht
+Management von Qualität
+Digital Change Management
+Wissenschaftliche Methoden – Qualitativ
+Allgemeine & Biopsychologie
+Ethik im Gesundheits- & Sozialwesen
+Qualitätsmanagement in der Pflege
+Insolvenzrecht
+Arbeits- & organisationspsychologische Beratung
+Rechnungswesen & Finanzierung (7 CP)
+Controlling & Unternehmensführung
+Vertiefungsrichtung Sozialmanagement
+Technische Mechanik: Statik
+Pädagogische Diagnostik & Evaluation
+International Health Care Management
+Physikalisch-technische Grundlagen I¹
+Praxiswerkstatt
+Projektmanagement & IT-Grundlagen
+Qualitative Forschungsmethoden
+Personal- & Organisationspsychologie
+Analytische Grundlagen technischer Spezialgebiete (5 CP)
+Konstruktionstechnik
+1. Führungspsychologie
+Maschinensysteme
+Fallstudie/Wissenschaftliches Arbeiten
+IT Trends & Innovation 
+Master-Thesis und Kolloquium
+Recht im Gesundheits- & Sozialwesen
+Projekt: Angewandte quantitative Personalforschung
+Vertiefungsrichtung GesundheitspsychologieMedizinische Rehabilitationspsychologie I
+Strategische Geschäftsmodellentwicklung
+Professional Business English 
+Marktforschung
+Gesundheits- & Medizinpädagogik
+Digitalisierung von Geschäftsprozessen
+Procurement, Production & Marketing 
+Praxis-Projekt: Angewandtes Risiko- & Treasurymanagement
+Business Communication Skills 
+Entscheidungsorientiertes Management
+Besteuerung der Gesellschaften II
+Grundlagen der Pädagogik
+2. Change Management
+Medizinische Grundlagen & Epidemiologie
+ Digitalisierung im Gesundheitswesen
+Organisationsgestaltung & -entwicklung
+Web Technologie
+Einführung in die Pädagogik über die Lebensspanne

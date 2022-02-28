@@ -1,43 +1,56 @@
-Wirtschaftspsychologie
-Strategic Management 
-Informationssicherheit & Datenschutz
-Einführung Mathematik
-Wissenschaftliches Arbeiten
- IT- & Medienrecht
- ERP-Prozesse
-Verhandlungsführung
-Design Thinking & Business Model Innovation
-Bachelor-Thesis/Kolloquium
-Procurement, Production & Marketing 
-Big Data & Data Science
-Management Basics
-Kompetenz- und Selbstmanagement
-Business English 
-Business Communication Skills 
-Seminar zur Digitalisierung
-Trendforschung & Innovation
-Finanzierung & Investition
-Intercultural Competencies 
-Turnaround Management
-Exposé zur Bachelor-Thesis
-Online-Marketing
-IT-Management
-Grundlagen der digitalen Transformation
-International Economic Policy 
-Wissenschaftliche Methoden - Qualitativ
-International Economics  (7 CP)
-International Finance & Accounting 
-Wirtschafts- & Privatrecht
-Usability/ Webdesign/Webanalytics
-Projektmanagement & IT-Grundlagen
-Künstliche Intelligenz - Methoden und Anwendungen
-Bilanzen & Steuern
-Wissenschaftliche Methoden – quantitative Datenanalyse
-Thesis/Kolloquium
-Operatives Controlling
-E-Business
-Wirtschafts-/ Unternehmensethik
-Professional Business English 
-Software Engineering & Projektmanagement
+Fachstudienprojekt (5 CP)
+Arbeitsmethoden & Softwareanwendungen
+Grundlagen Business Consulting
 Human Resources
-Geschäftsprozessmodellierung
+Produktionsplanung
+Produktionssysteme & Digitale Fabrik
+Kompaktkurs¹Grundlagen Digital Business
+Projektseminar Abschlussarbeit
+Supply Chain Management
+Psychologische Diagnostik
+Verhandlungsführung
+Physikalisch-technische Grundlagen I¹
+Internes & Externes Rechnungswesen
+Management von Informationstechnologien
+Maschinenelemente & -systeme¹
+Psychologische Handlungskompetenz
+Operatives Controlling
+Wirtschafts- & Privatrecht
+Grundlagen der Statistik
+Markt- & Werbepsychologie
+Wissenschaftliche Methodik
+Arbeits- & Organisationspsychologie
+Führung & Nachhaltigkeit (6 CP)
+Personal- & Organisationsentwicklung
+Volkswirtschaftslehre
+Bachelor-Thesis/Kolloquium
+Werkstofftechnische Grundlagen¹
+Ingenieurmathematik II
+Industrielle Informationstechnik¹
+Consultingprojekt: Digital Business Design
+Service Engineering & Instandhaltung
+Beschaffung, Fertigung & Marketing
+Finanzierung & Investition
+Physikalisch-technische Grundlagen II¹
+Allgemeine & Biopsychologie
+Design Thinking & Business Model Innovation
+Konstruktionslehre¹
+Kompaktkurs¹Sozialpsychologie
+Wirtschaftspsychologische Forschung
+Ingenieurmathematik I
+Seminar zur Digitalisierung
+Qualitative Forschungsmethoden
+Technisches Projektmanagement
+Wertschöpfungsmanagement
+Englisch
+Fertigungstechnik (5 CP)
+Business Consulting - Methoden
+Interdisziplinäres Studienprojekt
+Management Basics
+Entscheidungsorientiertes Management
+Führungspsychologie
+Wahlmodul
+Unternehmerisches Planspiel
+Quantitative Forschungsmethoden
+Qualitätsmanagement
+Digitalisierung von Geschäftsprozessen
