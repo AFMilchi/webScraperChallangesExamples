@@ -11,9 +11,9 @@ OnlineCampus der FOM hinterlegt werden. Die Formatierung kann der Datei ./meta/e
 
 Entwickelt auf Python 3.10.2
 Erforderliche Module:
-    * requests    (pip install requests)
-    * bs4         (pip install bs4)
-    * selenium    (pip install selenium)
+* requests    (pip install requests)
+* bs4         (pip install bs4)
+* selenium    (pip install selenium)
 
 
 
