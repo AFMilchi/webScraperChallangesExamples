@@ -36,7 +36,6 @@ class WebLoader():
         :param url: URL der Website
         :type url: string'''
         if self.rp.can_fetch('*', url):
-            print(self.rp.can_fetch('*', url))
             self.page = requests.get(url)
             time.sleep(self.crawlDelay)
         else:

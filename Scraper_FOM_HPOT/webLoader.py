@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.remote.webelement import WebElement
+import time
 # Pfad ist ans System anzupassen
 # Windows z.B: PATH = 'C:\Program Files (x86)\chromedriver.exe'
 PATH = 'chromedriver'
@@ -23,11 +24,13 @@ class WebLoader():
         self.getPage(url)
 
     def getPage(self, url):
-        '''Methode die nur Klassenintern genutzt wird
-        zum herunterladen der Website
+        '''Methode die nur Klassenintern genutzt wird zum herunterladen
+        der Website. Nach dem Download für 0,5s gewartet um sicherzustellen,
+        dass die Seite vollständig gelade ist, bevor sie ausgewertet wird.
         :param url: URL der Website
         :type url: string'''
         self.page = self.driver.get(url)
+        time.sleep(0.5)
 
     def getHTMLText(self):
         '''Liefert die Website als HTML Text
